@@ -17,10 +17,19 @@ This folder holds a **clickable prototype** of the app: a mockup you can tap thr
 | --- | --- |
 | `Neighborly Prototype.html` | The prototype. The whole app is packed into this one file. |
 | `README.md` | This guide. |
+| `index.html` | A small helper page that sends the link above straight to the prototype. You can ignore it. |
 
 ## How to open the prototype
 
-You don't need to install anything. Any web browser will do: Chrome, Safari, Edge or Firefox.
+### The easy way: open the link
+
+**👉 [ifedayo.me/neighborly](https://ifedayo.me/neighborly/)**
+
+Click the link and the prototype opens in your browser. Nothing to download.
+
+### Opening it from your computer
+
+If the link isn't working, or you want a copy to use offline, download the file instead. You don't need to install anything. Any web browser will do: Chrome, Safari, Edge or Firefox.
 
 1. **Download the file** `Neighborly Prototype.html` to your computer.
    - On GitHub: click the file name, then click the **download** button (a downward arrow, near the top right of the file view).
