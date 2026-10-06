@@ -1,1 +1,9 @@
 .DS_Store
+node_modules/
+dist/
+client/dist/
+server/dist/
+shared/dist/
+.env
+.env.*
+server/data/*.json
